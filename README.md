@@ -1,2 +1,1 @@
-# donschott.github.io
-my personal github pages
+previous version of my github pages donschott.github.io
